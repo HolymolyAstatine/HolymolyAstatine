@@ -1,16 +1,13 @@
-## Hi there 👋
-[![HolymolyAstatine's GitHub stats](https://github-readme-stats.vercel.app/apiHolymolyAstatine=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**HolymolyAstatine/HolymolyAstatine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![CR](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Astatine&reversal=false&textBg=false)
 
-Here are some ideas to get you started:
+## 📈 깃허브 티어
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HolymolyAstatine)](https://github.com/HolymolyAstatine/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 백준
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=astation)](https://solved.ac/astation)
+
+## 🛠️ 언어
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HolymolyAstatine)](https://github.com/HolymolyAstatine/github-readme-stats)
+
+## 📫 연락처
+- [이메일](mailto:kpa7089@gmail.com)
